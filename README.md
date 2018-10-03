@@ -1,7 +1,7 @@
 # myWeChatRobot
-用做个微信机器人的方式来学Python
-开发平台：Windows10
-python版本：3.7
+- 用做个微信机器人的方式来学Python
+- 开发平台：Windows10
+- python版本：3.7
 
 Ide:pycharm
 主要使用了itchat和wxpy两种方式来开发机器人。
